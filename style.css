@@ -1,0 +1,37 @@
+*{
+      margin: 0px;
+      padding: 0px;
+      box-sizing: border-box;
+      
+}
+h1{
+      font-size: 25px !important;
+}
+body{
+      height: 100vh;
+      width: 100vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #000 !important;
+}
+.webBox{
+      border: 3px solid black;
+      border-radius: 10px;
+      height: 300px;
+      width: 300px;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      padding: 10px;
+      background-color: antiquewhite;
+      
+     
+}
+.usrChoice{
+      height: 30px;
+      width: 70px !important;
+      text-align: center;
+      border-radius: 30px;
+      font-size: 10px !important;
+}
